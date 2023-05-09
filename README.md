@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/Sogan87)
 🎍 Bem vindo ao meu Git, sou o Sandro 🎍
 
 - 👨🏾‍💻Trabalhando com Javascript - NodeJS - MySql - React
