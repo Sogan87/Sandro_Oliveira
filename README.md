@@ -23,7 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sogan87&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sogan87&layout=compact&langs_count=7&theme=tokyonight"/>
     
-<div align="center" size = "16"><h1> ⭐️ Professions ⭐️</h1></div><br>
+<div align="center" size = "16"><h1> ⭐️ Professions ⭐️</h1></div>
   
   <div align="center"><br>
   <table>
